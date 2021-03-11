@@ -3,7 +3,7 @@ A finite element solution of the predator-prey equation (the Lotke-Voltera syste
 
 ## in MATLAB
 The two versions of the solution implemented in matlab is for a siplified version of the equation. 
-mkI is implemented in one dimension, omitting time dependent and non-linear terms, while mkII only assumes a constant predator population *v*= 1.
+mkI is implemented in one dimension, omitting time dependent and non-linear terms, while mkII only assumes a constant predator population *v* = 1.
 
 ## in FEniCS
 The solution implemented in Python  for the following equation:
